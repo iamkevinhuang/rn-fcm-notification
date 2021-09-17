@@ -1,5 +1,6 @@
 # this is the script for send push notification from rails backend
 # install gem from https://github.com/decision-labs/fcm
+# full tutorial belongs to : https://medium.com/@nehanakrani004/fcm-push-notification-with-ruby-on-rails-64097685ce66
 
 require 'fcm'
 
